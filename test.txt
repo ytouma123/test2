@@ -1,0 +1,12 @@
+aaaa
+bbbbbbbb
+ccccc
+dddddddd
+eeeeeee
+fffffff
+gggggg
+masterブランチに追加
+releaseブランチ追加
+ConflictTest1
+ddddddddaaadffe
+プルリクエストを確認する
